@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEditor.Build.Reporting;
 #endif
 
-public class AzureDevOps
+public class DevOps
 {
     private static string outputFileName = @"CampusSim";
     private static bool developmentBuild = false;
