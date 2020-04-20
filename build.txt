@@ -1,0 +1,1 @@
+"C:\Program Files\Unity\Hub\Editor\2019.3.7f1\Editor\Unity.exe" -batchmode -buildTarget Android -projectPath C:\agent\_work\6\s -accept-apiupdate -executeMethod AzureDevOps.PerformBuild -logfile C:\agent\_work\6\s\Editor.log
